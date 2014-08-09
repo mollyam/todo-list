@@ -2,3 +2,4 @@
 [ ] walk cat
 [ ] walk fish
 [ ] fly bird
+[ ] feed pets
