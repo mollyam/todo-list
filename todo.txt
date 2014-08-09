@@ -3,3 +3,4 @@
 [ ] walk fish
 [ ] fly bird
 [ ] feed pets
+[ ] nap
